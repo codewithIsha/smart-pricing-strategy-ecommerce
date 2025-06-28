@@ -1,5 +1,5 @@
-# 📦 smart-pricing-strategy-ecommerce
-
+# 📦 Smart Pricing Strategy for E-Commerce Sales Analytics
+(Excel → SQL → BI)
 > 💼 _Confidential project assigned by a growing e‑commerce startup to develop a smart pricing strategy framework._
 
 ---
