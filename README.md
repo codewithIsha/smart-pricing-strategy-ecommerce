@@ -37,7 +37,7 @@ This repository documents the end‑to‑end workflow for building a **smart pri
    - Verified data types and exported the fully cleaned CSV for SQL ingestion.
 
 **Key Deliverables:**  
-- **`format_fix_script.py`** — Python utility for parsing and standardizing date and numeric fields.  
+- **`format_fix_script.ipynb`** — Python utility for parsing and standardizing date and numeric fields.  
 - **`invoices_fixed.csv`** (referenced, not included) — Final cleaned dataset ready for SQL import.
 
 ---
